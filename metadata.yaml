@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34138'
     url: http://www.gutenberg.org/2009/agents/34138
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30874#The-Land-of-Look-Behind
 gutenberg_issued: '2010-01-06'
 gutenberg_type: Text
 identifiers:
