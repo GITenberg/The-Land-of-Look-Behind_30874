@@ -1,0 +1,32 @@
+_repo: The-Land-of-Look-Behind_30874
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30874-h/images/coverpage1.jpg
+creator:
+  author:
+    agent_name: Brown, Paul Cameron
+    alias: Browne, Paul Cameron
+    birthdate: 1948
+    gutenberg_agent_id: '34138'
+    url: http://www.gutenberg.org/2009/agents/34138
+description: ''
+gutenberg_issued: '2010-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30874'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, Canadian'
+- !lcc 'PS'
+tableOfContents: To cross the bay -- Upturn the rock -- Seaeggs -- The hire -- The
+  nightlamp -- The strongbox -- The sandpit -- The wager -- Errands -- Ponchontas
+  -- The bloodfish -- The garden patch -- The monarch -- Brébeuf -- City the insects
+  invade -- Plaudits -- Summer's clock -- Automobile soft legs -- The pelly, the powder
+  and the snake -- Jabiru -- Adua -- Rip.
+title: The Land of Look Behind
+url: http://www.gutenberg.org/ebooks/30874
